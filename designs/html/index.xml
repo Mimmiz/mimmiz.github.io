@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on My Work</title>
+    <link>https://Mimmiz.github.io/designs/html/</link>
+    <description>Recent content in HTML on My Work</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Massimo Carta</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://Mimmiz.github.io/designs/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Java WEB to access a DB</title>
+      <link>https://Mimmiz.github.io/portfolio/sample-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://Mimmiz.github.io/portfolio/sample-project/</guid>
+      <description>JDBC help you how to do basic database operations (CRUD - Create, Retrieve, Update and Delete) using JDBC (Java Database Connectivity) API. These CRUD operations are equivalent to the INSERT, SELECT, UPDATE and DELETE statements in SQL language. Although the target database system is MySQL, but the same technique can be applied for other database systems as well because the query syntax used is standard SQL which is supported by all relational database systems.</description>
+    </item>
+    
+  </channel>
+</rss>
